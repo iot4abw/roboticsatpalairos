@@ -1,2 +1,1 @@
-# roboticsatpalairos
-# This is a project created by the team "Robotics@Palairos"
+# Αποθετήριο του γυμνασίου Παλαίρου για στην συμμετοχή στον Διαγωνισμό  Ανοιχτών Τεχνολογιών"
